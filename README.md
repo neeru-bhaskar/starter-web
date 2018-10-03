@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ##Change3
 
 ##Change4
+
+## change -5 - copyright notice
