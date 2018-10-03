@@ -17,3 +17,5 @@ Sample website with plenty of files for demos
 ##Change4
 
 ## change -5 - copyright notice
+
+## Change made while other changes in other branch.
